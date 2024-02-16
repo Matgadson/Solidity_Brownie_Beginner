@@ -1,0 +1,21 @@
+{
+  "name": "group_multisig_wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@safe-global/api-kit": "^2.1.0",
+    "@safe-global/auth-kit": "^2.0.1",
+    "@safe-global/protocol-kit": "^3.0.0",
+    "@safe-global/safe-core-sdk-types": "^4.0.0",
+    "@web3auth/safeauth-embed": "^0.0.0",
+    "dotenv": "^16.4.2",
+    "ethers": "^6.11.0"
+  }
+}
